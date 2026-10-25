@@ -61,7 +61,7 @@ Download the new DMG and replace the app in Applications. After an update the is
 
 - The app runs in the macOS sandbox and collects no analytics.
 - Clipboard history, notes and settings stay on your Mac.
-- The only network access is the optional internet speed test (Apple's servers, the same service `networkQuality` uses).
+- Network access is limited to the optional internet speed test (Apple's servers, the same service `networkQuality` uses) and a daily update check against this GitHub repository (can be turned off in About).
 
 ## Uninstall
 
