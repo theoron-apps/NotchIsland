@@ -7,19 +7,34 @@
 <p align="center">Dynamic Island для MacBook з вирізом · від <a href="https://github.com/theoron-apps">Theoron</a></p>
 
 <p align="center">
+  <a href="../../releases/latest"><img src="https://img.shields.io/github/v/release/theoron-apps/NotchIsland?style=flat-square&label=%D0%B2%D0%B5%D1%80%D1%81%D1%96%D1%8F&color=0A84FF" alt="версія"></a>
+  <a href="../../releases"><img src="https://img.shields.io/github/downloads/theoron-apps/NotchIsland/total?style=flat-square&label=%D0%B7%D0%B0%D0%B2%D0%B0%D0%BD%D1%82%D0%B0%D0%B6%D0%B5%D0%BD%D1%8C&color=30D158&logo=github&logoColor=white" alt="завантажень"></a>
+  <img src="https://img.shields.io/badge/macOS-15%2B-1C1C1E?style=flat-square&logo=apple&logoColor=white" alt="macOS 15+">
+  <a href="https://t.me/TheoronApps"><img src="https://img.shields.io/badge/%D0%BD%D0%BE%D0%B2%D0%B8%D0%BD%D0%B8-@TheoronApps-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"></a>
+</p>
+
+<p align="center">
   <a href="../../releases/latest"><b>Завантажити</b></a> ·
   <a href="README.md">English</a> · <a href="README.ru.md">Русский</a> · Українська
+</p>
+
+<p align="center">
+  <img src="assets/hero-uk.jpg" width="900" alt="NotchIsland показує музику у вирізі MacBook">
 </p>
 
 ---
 
 ## Що вміє
 
+<p align="center">
+  <img src="assets/features-uk.jpg" width="900" alt="Можливості NotchIsland">
+</p>
+
 - **Музика** — Apple Music, Spotify, пісні з Telegram і звук із браузерів (Safari, Chrome, Firefox, Arc та інших) із живим еквалайзером і підсвіткою навколо острова.
-- **Сповіщення у вирізі** — заряджання, AirPods та інші Bluetooth-пристрої, зміна мережі й VPN, сильне нагрівання, компактна смужка гучності.
-- **Активності** — таймер, «Не засинати», індикатори камери й мікрофона, дзвінки. Друга активність відокремлюється від острова краплею.
+- **Сповіщення у вирізі** — заряджання, AirPods та інші Bluetooth-пристрої, зміна мережі й VPN, сильне нагрівання, надто яскравий екран на батареї, компактна смужка гучності.
+- **Активності** — таймер, «Не засинати», індикатори камери й мікрофона, дзвінки. До трьох активностей одразу, в одному з шести стилів на вибір.
 - **Полиця** — лоток для файлів з AirDrop і конвертацією, історія буфера обміну, нотатка.
-- **Статистика й батарея** — процесор, пам'ять, відеокарта, диск, мережа, температура та споживання у ватах, з кнопками швидких дій.
+- **Статистика й батарея** — процесор, пам'ять, відеокарта, диск, мережа, температура, споживання у ватах і яскравість екрана в нітах, з кнопками швидких дій.
 - **Навчання** під час першого запуску та **«Що нового»** просто в острові після кожного оновлення.
 - **Автоматична перевірка оновлень** — острів сам повідомить про нову версію.
 - Три стилі острова (чорний, скло, матове скло), жести, тактильний відгук трекпада. Українська, англійська та російська.

@@ -7,19 +7,34 @@
 <p align="center">Dynamic Island for MacBooks with a notch · by <a href="https://github.com/theoron-apps">Theoron</a></p>
 
 <p align="center">
+  <a href="../../releases/latest"><img src="https://img.shields.io/github/v/release/theoron-apps/NotchIsland?style=flat-square&label=version&color=0A84FF" alt="version"></a>
+  <a href="../../releases"><img src="https://img.shields.io/github/downloads/theoron-apps/NotchIsland/total?style=flat-square&label=downloads&color=30D158&logo=github&logoColor=white" alt="downloads"></a>
+  <img src="https://img.shields.io/badge/macOS-15%2B-1C1C1E?style=flat-square&logo=apple&logoColor=white" alt="macOS 15+">
+  <a href="https://t.me/TheoronApps"><img src="https://img.shields.io/badge/news-@TheoronApps-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"></a>
+</p>
+
+<p align="center">
   <a href="../../releases/latest"><b>Download</b></a> ·
   English · <a href="README.ru.md">Русский</a> · <a href="README.uk.md">Українська</a>
+</p>
+
+<p align="center">
+  <img src="assets/hero-en.jpg" width="900" alt="NotchIsland playing music in the MacBook notch">
 </p>
 
 ---
 
 ## Features
 
+<p align="center">
+  <img src="assets/features-en.jpg" width="900" alt="NotchIsland features">
+</p>
+
 - **Music** — Apple Music, Spotify, Telegram songs and browser audio (Safari, Chrome, Firefox, Arc and more) with a live equalizer and a glow around the island.
-- **Notifications in the notch** — charging, AirPods and other Bluetooth devices, network and VPN changes, high temperature, a compact volume bar.
-- **Activities** — timer, Keep Awake, camera and microphone indicators, calls. A second activity splits off the island as a droplet.
+- **Notifications in the notch** — charging, AirPods and other Bluetooth devices, network and VPN changes, high temperature, a too-bright screen on battery, a compact volume bar.
+- **Activities** — timer, Keep Awake, camera and microphone indicators, calls. Up to three activities at once, shown in one of six styles.
 - **Shelf** — a file tray with AirDrop and conversion, clipboard history and a quick note.
-- **Stats & battery** — CPU, memory, GPU, disk, network, temperatures and power draw in watts, with quick action buttons.
+- **Stats & battery** — CPU, memory, GPU, disk, network, temperatures, power draw in watts and screen brightness in nits, with quick action buttons.
 - **Guided tour** on first launch and **What's New** right in the island after every update.
 - **Automatic update checks** — the island tells you when a new version is out.
 - Three island styles (black, glass, frosted glass), gestures, trackpad haptics. English, Ukrainian and Russian.

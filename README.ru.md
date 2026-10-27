@@ -7,19 +7,34 @@
 <p align="center">Dynamic Island для MacBook с вырезом · от <a href="https://github.com/theoron-apps">Theoron</a></p>
 
 <p align="center">
+  <a href="../../releases/latest"><img src="https://img.shields.io/github/v/release/theoron-apps/NotchIsland?style=flat-square&label=%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F&color=0A84FF" alt="версия"></a>
+  <a href="../../releases"><img src="https://img.shields.io/github/downloads/theoron-apps/NotchIsland/total?style=flat-square&label=%D1%81%D0%BA%D0%B0%D1%87%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B9&color=30D158&logo=github&logoColor=white" alt="скачиваний"></a>
+  <img src="https://img.shields.io/badge/macOS-15%2B-1C1C1E?style=flat-square&logo=apple&logoColor=white" alt="macOS 15+">
+  <a href="https://t.me/TheoronApps"><img src="https://img.shields.io/badge/%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8-@TheoronApps-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"></a>
+</p>
+
+<p align="center">
   <a href="../../releases/latest"><b>Скачать</b></a> ·
   <a href="README.md">English</a> · Русский · <a href="README.uk.md">Українська</a>
+</p>
+
+<p align="center">
+  <img src="assets/hero-ru.jpg" width="900" alt="NotchIsland показывает музыку в вырезе MacBook">
 </p>
 
 ---
 
 ## Что умеет
 
+<p align="center">
+  <img src="assets/features-ru.jpg" width="900" alt="Возможности NotchIsland">
+</p>
+
 - **Музыка** — Apple Music, Spotify, песни из Telegram и звук из браузеров (Safari, Chrome, Firefox, Arc и других) с живым эквалайзером и подсветкой вокруг острова.
-- **Уведомления в вырезе** — зарядка, AirPods и другие Bluetooth-устройства, смена сети и VPN, сильный нагрев, компактная полоска громкости.
-- **Активности** — таймер, «Не засыпать», индикаторы камеры и микрофона, звонки. Вторая активность отделяется от острова каплей.
+- **Уведомления в вырезе** — зарядка, AirPods и другие Bluetooth-устройства, смена сети и VPN, сильный нагрев, слишком яркий экран на батарее, компактная полоска громкости.
+- **Активности** — таймер, «Не засыпать», индикаторы камеры и микрофона, звонки. До трёх активностей сразу, в одном из шести стилей на выбор.
 - **Полка** — лоток для файлов с AirDrop и конвертацией, история буфера обмена, заметка.
-- **Статистика и батарея** — процессор, память, видеокарта, диск, сеть, температура и потребление в ваттах, с кнопками быстрых действий.
+- **Статистика и батарея** — процессор, память, видеокарта, диск, сеть, температура, потребление в ваттах и яркость экрана в нитах, с кнопками быстрых действий.
 - **Обучение** при первом запуске и **«Что нового»** прямо в острове после каждого обновления.
 - **Автоматическая проверка обновлений** — остров сам сообщит о новой версии.
 - Три стиля острова (чёрный, стекло, матовое стекло), жесты, тактильный отклик трекпада. Русский, украинский и английский.
