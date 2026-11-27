@@ -26,10 +26,10 @@
 - **Agents Office** — Claude Code, Codex, Cursor and Antigravity at their project desks in a cutaway room: see who is working, who needs your permission, who is done and who hit a limit. A waiting agent makes the notch glow, plus Claude, Codex and Cursor limits with warnings.
 - **QR scanner** — finds QR codes on your screen, highlights them and offers the right action.
 - **Equalizer for every app** — music and video from any player, not just Apple Music and Spotify: YouTube in Safari, Chrome and Brave, podcasts, VLC, IINA, Telegram songs, and FL Studio while it's making sound. Title, time, seeking and controls right in the island, plus the video frame and channel with the NotchIsland browser extension. A live equalizer in four styles — Like iPhone, Instant, NotchIsland with tunable bars, and Just bars — a glow around the island and an optional narrow layout hugging the notch.
-- **Notifications in the notch** — charging, AirPods and other Bluetooth devices, network and VPN changes, high temperature, a too-bright screen on battery, a compact volume bar.
+- **Notifications in the notch** — charging, AirPods and other Bluetooth devices, network and VPN changes, another Mac over a Thunderbolt cable, high temperature, a too-bright screen on battery, a compact volume bar.
 - **Activities** — timer, Keep Awake, camera and microphone indicators, calls. Up to three activities at once, shown in one of six styles.
 - **Shelf** — a file tray with AirDrop, conversion and PDF password removal, clipboard history and a quick note.
-- **Stats & battery** — CPU, memory, GPU, disk, network, temperatures, power draw in watts and screen brightness in nits, with quick action buttons. Arrange the swipe pages any way you like.
+- **Stats & battery** — CPU, memory, GPU, disk, network, temperatures, power draw in watts and screen brightness in nits, with quick action buttons. Click the Memory ring to open the list of apps and processes with their memory, CPU and GPU, and quit what you don't need right from the island. Arrange the swipe pages any way you like.
 - **Guided tour** on first launch and **What's New** right in the island after every update.
 - **Automatic update checks** — the island tells you when a new version is out.
 - Gestures, trackpad haptics, a soft glow at launch. English, Ukrainian and Russian.
