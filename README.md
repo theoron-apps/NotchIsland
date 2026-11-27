@@ -167,6 +167,10 @@ If you connected AI agents, click **Disconnect** in Settings → AI Agents first
 
 Quit NotchIsland (right-click the island → Quit NotchIsland), delete it from Applications and, if you like, remove `~/Library/Application Support/NotchIsland`, `~/Library/Preferences/devplaceholder.WAZ2022C.NotchIsland.plist` and the old `~/Library/Containers/devplaceholder.WAZ2022C.NotchIsland`.
 
+## License
+
+NotchIsland is free to download and use. Its source code is not public. © 2026 Theoron.
+
 ## Trademarks
 
 Claude and Claude Code are trademarks of Anthropic, Codex of OpenAI, Cursor of Anysphere and Antigravity of Google. NotchIsland is an independent app and is not affiliated with, sponsored or endorsed by these companies. Agent icons in the app are simplified drawings used only to tell the agents apart.

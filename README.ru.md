@@ -167,6 +167,10 @@ NotchIsland проверяет новую версию при запуске и 
 
 Закройте NotchIsland (правый клик по острову → «Выйти из NotchIsland»), удалите его из «Программ» и при желании `~/Library/Application Support/NotchIsland`, `~/Library/Preferences/devplaceholder.WAZ2022C.NotchIsland.plist` и старую папку `~/Library/Containers/devplaceholder.WAZ2022C.NotchIsland`.
 
+## Лицензия
+
+NotchIsland можно бесплатно скачивать и использовать. Исходный код приложения закрыт. © 2026 Theoron.
+
 ## Товарные знаки
 
 Claude и Claude Code — товарные знаки Anthropic, Codex — OpenAI, Cursor — Anysphere, Antigravity — Google. NotchIsland — независимое приложение и не связано с этими компаниями, не спонсируется и не одобрено ими. Значки агентов в приложении — упрощённые рисунки, только чтобы агентов было легко различить.
